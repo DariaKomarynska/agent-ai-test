@@ -1,0 +1,13 @@
+{
+  "name": "EcoTech Solutions",
+  "description": "Firma zajmująca się rozwiązaniami ekologicznymi dla biznesu i domu",
+  "values": ["zrównoważony rozwój", "innowacyjność", "odpowiedzialność społeczna"],
+  "target_audience": ["świadomi ekologicznie konsumenci", "małe i średnie firmy", "instytucje publiczne"],
+  "tone_of_voice": "profesjonalny, ale przystępny, inspirujący do działania",
+  "industry": "technologie ekologiczne",
+  "additional_info": {
+    "flagship_products": ["EcoHome Smart System", "BusinessGreen Solutions", "EcoAudit"],
+    "recent_achievements": ["Nagroda Eco Innovation 2024", "Redukcja śladu węglowego o 30% w ostatnim roku"],
+    "competitors": ["GreenTech Corp", "EcoSolutions Inc.", "Sustainable Systems"]
+  }
+}

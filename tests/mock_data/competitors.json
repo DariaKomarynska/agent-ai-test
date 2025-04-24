@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "title": "GreenTech Corp ogłasza nową linię produktów do monitorowania jakości powietrza",
+      "url": "https://example.com/competitors/greentech-air-quality",
+      "snippet": "GreenTech Corp, lider w branży technologii ekologicznych, wprowadza na rynek nową linię inteligentnych czujników jakości powietrza dla domów i biur. Urządzenia wyróżniają się kompaktowym designem i zaawansowaną analizą danych w czasie rzeczywistym."
+    },
+    {
+      "title": "EcoSolutions Inc. nawiązuje współpracę z siecią sklepów budowlanych",
+      "url": "https://example.com/competitors/ecosolutions-partnership",
+      "snippet": "EcoSolutions Inc. ogłosiło strategiczne partnerstwo z największą w kraju siecią sklepów budowlanych. Dzięki tej współpracy, produkty firmy będą dostępne w ponad 500 lokalizacjach, co znacząco zwiększy ich dostępność dla klientów indywidualnych."
+    },
+    {
+      "title": "Sustainable Systems prezentuje wyniki kampanii edukacyjnej na Facebooku",
+      "url": "https://example.com/competitors/sustainable-systems-campaign",
+      "snippet": "Kampania edukacyjna 'Ekologia na co dzień' prowadzona przez Sustainable Systems na Facebooku osiągnęła zasięg ponad 2 milionów użytkowników. Seria postów z praktycznymi poradami dotyczącymi oszczędzania energii i redukcji odpadów spotkała się z bardzo pozytywnym odbiorem."
+    },
+    {
+      "title": "GreenTech Corp publikuje raport o śladzie węglowym swoich produktów",
+      "url": "https://example.com/competitors/greentech-carbon-footprint",
+      "snippet": "W ramach zwiększania transparentności, GreenTech Corp opublikował szczegółowy raport dotyczący śladu węglowego wszystkich swoich produktów. Firma zobowiązała się również do redukcji emisji CO2 o 50% do 2030 roku."
+    },
+    {
+      "title": "EcoSolutions Inc. angażuje klientów poprzez interaktywne posty na Facebooku",
+      "url": "https://example.com/competitors/ecosolutions-interactive-posts",
+      "snippet": "EcoSolutions Inc. odnotowuje rekordowe zaangażowanie użytkowników dzięki serii interaktywnych postów na Facebooku. Quizy, ankiety i wyzwania związane z ekologicznym stylem życia przyciągają tysiące komentarzy i udostępnień."
+    }
+  ],
+  "analysis": {
+    "content_strategies": [
+      "Edukacyjne serie postów",
+      "Interaktywne formaty angażujące użytkowników",
+      "Transparentne komunikowanie działań prośrodowiskowych",
+      "Prezentacja nowych produktów i innowacji",
+      "Budowanie społeczności wokół wartości ekologicznych"
+    ],
+    "engagement_patterns": [
+      "Najwyższe zaangażowanie uzyskują posty z praktycznymi poradami",
+      "Treści interaktywne generują więcej komentarzy i udostępnień",
+      "Komunikaty o nowych produktach przyciągają uwagę, gdy podkreślają korzyści dla środowiska",
+      "Raporty i dane liczbowe budują wiarygodność marki",
+      "Posty pokazujące realne wpływ działań na środowisko są dobrze odbierane"
+    ],
+    "communication_tone": [
+      "Profesjonalny, ale przystępny",
+      "Edukacyjny bez nadmiernego moralizowania",
+      "Inspirujący do działania",
+      "Oparty na danych i faktach",
+      "Pozytywny, skupiony na rozwiązaniach"
+    ]
+  }
+}

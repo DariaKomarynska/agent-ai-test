@@ -1,0 +1,24 @@
+# Core dependencies
+fastapi>=0.104.0
+uvicorn>=0.23.2
+pydantic>=2.4.2
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+httpx>=0.25.0
+
+# OpenAI dependencies
+openai>=1.3.0
+instructor>=0.4.0
+
+# Agent SDK
+openai-agents>=0.0.12  # Official OpenAI Agent SDK
+
+# Testing
+pytest>=7.4.3
+pytest-asyncio>=0.21.1
+httpx>=0.25.0
+
+# Utilities
+python-multipart>=0.0.6
+pillow>=10.1.0
+json5>=0.9.14

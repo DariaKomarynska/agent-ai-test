@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "title": "Rosnąca popularność inteligentnych systemów zarządzania energią w domach",
+      "url": "https://example.com/trends/smart-energy-management",
+      "snippet": "Najnowsze badania pokazują, że rynek inteligentnych systemów zarządzania energią w domach wzrósł o 45% w ciągu ostatniego roku. Konsumenci coraz częściej wybierają rozwiązania, które pozwalają im monitorować i optymalizować zużycie energii."
+    },
+    {
+      "title": "Firmy stawiają na zrównoważony rozwój jako przewagę konkurencyjną",
+      "url": "https://example.com/trends/sustainability-competitive-advantage",
+      "snippet": "Według najnowszego raportu McKinsey, 78% firm uważa, że zrównoważony rozwój staje się kluczowym czynnikiem przewagi konkurencyjnej. Klienci coraz częściej wybierają marki, które aktywnie działają na rzecz ochrony środowiska."
+    },
+    {
+      "title": "Technologie ekologiczne przyciągają rekordowe inwestycje",
+      "url": "https://example.com/trends/eco-tech-investments",
+      "snippet": "W pierwszym kwartale 2024 roku inwestycje w technologie ekologiczne osiągnęły rekordowy poziom 45 miliardów dolarów. Szczególnym zainteresowaniem cieszą się rozwiązania związane z energią odnawialną i gospodarką obiegu zamkniętego."
+    },
+    {
+      "title": "Konsumenci oczekują transparentności w kwestiach środowiskowych",
+      "url": "https://example.com/trends/environmental-transparency",
+      "snippet": "Badanie przeprowadzone przez Nielsen pokazuje, że 85% konsumentów oczekuje od firm pełnej transparentności w kwestiach środowiskowych. Coraz więcej marek decyduje się na publikowanie szczegółowych raportów dotyczących swojego wpływu na środowisko."
+    },
+    {
+      "title": "Mikrosieci energetyczne rewolucjonizują lokalną produkcję energii",
+      "url": "https://example.com/trends/microgrids-revolution",
+      "snippet": "Mikrosieci energetyczne, umożliwiające lokalną produkcję i dystrybucję energii, stają się coraz popularniejszym rozwiązaniem dla społeczności i firm dążących do niezależności energetycznej i redukcji śladu węglowego."
+    }
+  ],
+  "analysis": {
+    "trending_topics": [
+      "Inteligentne zarządzanie energią",
+      "Zrównoważony rozwój jako strategia biznesowa",
+      "Inwestycje w technologie ekologiczne",
+      "Transparentność środowiskowa",
+      "Lokalna produkcja energii"
+    ],
+    "consumer_interests": [
+      "Oszczędność energii",
+      "Produkty przyjazne dla środowiska",
+      "Transparentność firm",
+      "Rozwiązania smart home",
+      "Niezależność energetyczna"
+    ],
+    "business_opportunities": [
+      "Rozwój systemów monitorowania zużycia energii",
+      "Certyfikacja ekologiczna produktów",
+      "Doradztwo w zakresie zrównoważonego rozwoju",
+      "Rozwiązania dla mikrosieci energetycznych",
+      "Edukacja konsumentów w zakresie ekologii"
+    ]
+  }
+}
