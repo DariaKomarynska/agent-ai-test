@@ -1,4 +1,4 @@
-# Facebook Post Generator - OpenAI Agents Demo
+# Agent AI Test - Facebook Post Generator
 
 This repository demonstrates the use of OpenAI's Agents library to create a system that generates Facebook post proposals based on company context, current trends, and competitor analysis.
 
@@ -42,8 +42,8 @@ Each agent in the system is implemented using OpenAI's Agents library:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/facebook-post-generator.git
-   cd facebook-post-generator
+   git clone https://github.com/riposta/agent-ai-test.git
+   cd agent-ai-test
    ```
 
 2. Create a virtual environment and install dependencies:
@@ -120,4 +120,3 @@ pytest
 Build and run with Docker Compose:
 ```
 docker-compose up --build
-```
